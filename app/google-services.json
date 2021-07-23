@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628082329259",
+    "project_id": "pool-app-40291",
+    "storage_bucket": "pool-app-40291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628082329259:android:253cb4d40781e75b0ad9ee",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628082329259-i4m2obmtbac9uvb36iovfsl4d3n9s02q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9140lrhYGP1-wMy391EF7uMRtNO8rbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628082329259-i4m2obmtbac9uvb36iovfsl4d3n9s02q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
